@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi everyone welcome to my github home page
 
-<!--
-**tokyo2006/tokyo2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![梦里不知身是客](https://res.cloudinary.com/xinta/image/upload/v1523925289/blogimage/20120609_182219.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2005 在老师的公司里面做自动化开发
+- 2008 和同学一起瞎闹腾
+- 2009 闹腾够了(钱败光了)安稳做开发
+- 2010 开发@akazam
+- 2011 开发@新宇软件
+- 2012 开发@[益进软件](https://www.eisgroup.com/)
+- 2017 Devops@[百望贸宜](https://tradeshiftchina.cn/)
+
+电子邮箱: rurounikexin@gmail.com
+
+### 喜欢:
+
+动漫 游戏 各种电子设备 
+
+
+
+### 不喜欢:
+
+抽烟 下雨天
