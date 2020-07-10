@@ -1,5 +1,7 @@
 ### Hi everyone welcome to my github home page
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tokyo2006.tokyo2006)
+
 
 ![梦里不知身是客](https://res.cloudinary.com/xinta/image/upload/v1523925289/blogimage/20120609_182219.jpg)
 
