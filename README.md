@@ -1,6 +1,6 @@
 ### Hi everyone welcome to my github home page
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tokyo2006.tokyo2006)
+![visitors](https://tokyo2006-visitor-badge.glitch.me/badge?page_id=tokyo2006.tokyo2006)
 
 ![Tokyo2006's github stats](https://github-readme-stats.vercel.app/api?username=tokyo2006&count_private=true&&show_icons=true&theme=radical)
 
