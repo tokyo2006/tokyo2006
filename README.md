@@ -1,6 +1,6 @@
 ### Hi everyone welcome to my github home page
 
-![vistors](https://count.getloli.com/get/@tokyo2006)
+## 你是第![vistors](https://count.getloli.com/get/@tokyo2006)个访问我的人哟~~~~
 
 ![Tokyo2006's github stats](https://github-readme-stats.vercel.app/api?username=tokyo2006&count_private=true&&show_icons=true&theme=radical)
 
