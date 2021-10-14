@@ -13,6 +13,7 @@
 - 2011 开发@新宇软件
 - 2012 开发@[益进软件](https://www.eisgroup.com/)
 - 2017 Devops@[百望贸宜](https://tradeshiftchina.cn/)
+- 2021 Devops@[飞协博](https://www.flexport.com/)
 
 电子邮箱: rurounikexin@gmail.com
 
