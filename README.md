@@ -4,8 +4,6 @@
 
 ![Tokyo2006's github stats](https://github-readme-stats.vercel.app/api?username=tokyo2006&count_private=true&&show_icons=true&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/tokyo2006?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
-
 - 2005 在老师的公司里面做自动化开发
 - 2008 和同学一起瞎闹腾
 - 2009 闹腾够了(钱败光了)安稳做开发
