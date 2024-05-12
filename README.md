@@ -3,6 +3,7 @@
 ## 你是第![vistors](https://count.getloli.com/get/@tokyo2006)个访问我的人哟~~~~
 
 ![Tokyo2006's github stats](https://github-readme-stats.vercel.app/api?username=tokyo2006&count_private=true&&show_icons=true&theme=radical)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 - 2005 在老师的公司里面做自动化开发
 - 2008 和同学一起瞎闹腾
