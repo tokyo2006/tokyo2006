@@ -1,4 +1,4 @@
-### Hi everyone welcome to my github home page
+### Hi everyone, welcome to my GitHub Home Page
 
 ## 你是第![vistors](https://count.getloli.com/get/@tokyo2006)个访问我的人哟~~~~
 
@@ -14,6 +14,8 @@
 - 2017 Devops@[Tradeshift](https://tradeshiftchina.cn/)
 - 2021 Devops@[飞协博](https://www.flexport.com/)
 - 2024 Devops@[Tradeshift](https://tradeshiftchina.cn/)
+- 2025 Devops@[LexisNexis](https://www.lexisnexis.com/）
+- 2026 Devops@[Tradeshift](https://tradeshiftchina.cn/)
 
 电子邮箱: rurounikexin@gmail.com
 
@@ -21,6 +23,7 @@
 
 动漫 游戏 各种电子设备 
 模型: 变形金刚 GUNDUM Macross Moto 机娘 [分体键盘](https://blog.lkjxblog.site/project/split_keyboard/)
+遥控: 各种遥控车
 
 
 
