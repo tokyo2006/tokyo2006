@@ -16,7 +16,7 @@
 - 2017 Devops@[Tradeshift](https://tradeshiftchina.cn/)
 - 2021 Devops@[飞协博](https://www.flexport.com/)
 - 2024 Devops@[Tradeshift](https://tradeshiftchina.cn/)
-- 2025 Devops@[LexisNexis](https://www.lexisnexis.com/）
+- 2025 Devops@[LexisNexis](https://www.lexisnexis.com/)
 - 2026 Devops@[Tradeshift](https://tradeshiftchina.cn/)
 
 电子邮箱: rurounikexin@gmail.com
