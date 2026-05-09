@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chen Zeng's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 194, Total Commits  (last year) : 127, Total PRs: 58, Total Issues: 19, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 194, Total Commits  (last year) : 127, Total PRs: 59, Total Issues: 19, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 106.10637137481655;
+        stroke-dashoffset: 105.71926198324073;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >58</text>
+      >59</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
