@@ -23,10 +23,14 @@
 
 ### 喜欢:
 
-动漫 游戏 各种电子设备 
-模型: 变形金刚 GUNDUM Macross Moto 机娘 
+动漫 游戏 各种电子设备
+
+模型: 变形金刚 GUNDUM Macross Moto 机娘
+
 遥控: 各种遥控车
+
 键盘: [分体键盘](https://blog.lkjxblog.site/project/split_keyboard/)
+
 Nerf: 各种软蛋枪
 
 ### 不喜欢:
