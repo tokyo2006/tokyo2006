@@ -36,3 +36,7 @@ Nerf: 各种软蛋枪
 ### 不喜欢:
 
 抽烟 下雨天
+
+### 我的博客
+
+博客地址: [https://blog.lkjxblog.site/](https://blog.lkjxblog.site/)
