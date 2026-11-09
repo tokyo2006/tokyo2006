@@ -25,7 +25,7 @@
 
 动漫 游戏 各种电子设备
 
-模型: 变形金刚 GUNDUM Macross Moto 机娘
+模型: 变形金刚 GUNDAM Macross Moto 机娘
 
 遥控: 各种遥控车
 
